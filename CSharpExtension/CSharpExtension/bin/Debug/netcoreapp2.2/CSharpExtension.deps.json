@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CSharpExtension/1.0.0": {
+        "dependencies": {
+          "DemoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CSharpExtension.dll": {}
+        }
+      },
+      "DemoLibrary/1.0.0": {
+        "runtime": {
+          "DemoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

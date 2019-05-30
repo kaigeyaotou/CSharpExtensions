@@ -1,0 +1,17 @@
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\SimulateMediatRUnitTest.deps.json
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\SimulateMediatRUnitTest.runtimeconfig.json
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\SimulateMediatRUnitTest.runtimeconfig.dev.json
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\SimulateMediatRUnitTest.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\SimulateMediatRUnitTest.pdb
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\SimulateMediatR.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\bin\Debug\netcoreapp2.2\SimulateMediatR.pdb
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\obj\Debug\netcoreapp2.2\SimulateMediatRUnitTest.csprojAssemblyReference.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\obj\Debug\netcoreapp2.2\SimulateMediatRUnitTest.csproj.CoreCompileInputs.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\obj\Debug\netcoreapp2.2\SimulateMediatRUnitTest.AssemblyInfoInputs.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\obj\Debug\netcoreapp2.2\SimulateMediatRUnitTest.AssemblyInfo.cs
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\obj\Debug\netcoreapp2.2\SimulateMediatRUnitTest.csproj.CopyComplete
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\obj\Debug\netcoreapp2.2\SimulateMediatRUnitTest.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\SimulateMediatRUnitTest\obj\Debug\netcoreapp2.2\SimulateMediatRUnitTest.pdb

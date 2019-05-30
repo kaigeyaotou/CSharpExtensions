@@ -1,0 +1,9 @@
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\bin\Debug\netstandard2.0\BlockingCollectionDemo.deps.json
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\bin\Debug\netstandard2.0\BlockingCollectionDemo.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\bin\Debug\netstandard2.0\BlockingCollectionDemo.pdb
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\obj\Debug\netstandard2.0\BlockingCollectionDemo.csprojAssemblyReference.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\obj\Debug\netstandard2.0\BlockingCollectionDemo.csproj.CoreCompileInputs.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\obj\Debug\netstandard2.0\BlockingCollectionDemo.AssemblyInfoInputs.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\obj\Debug\netstandard2.0\BlockingCollectionDemo.AssemblyInfo.cs
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\obj\Debug\netstandard2.0\BlockingCollectionDemo.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\BlockingCollectionDemo\obj\Debug\netstandard2.0\BlockingCollectionDemo.pdb

@@ -1,0 +1,14 @@
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\obj\Debug\netcoreapp2.2\CSharpExtension.csprojAssemblyReference.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\obj\Debug\netcoreapp2.2\CSharpExtension.csproj.CoreCompileInputs.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\obj\Debug\netcoreapp2.2\CSharpExtension.AssemblyInfoInputs.cache
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\obj\Debug\netcoreapp2.2\CSharpExtension.AssemblyInfo.cs
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\bin\Debug\netcoreapp2.2\CSharpExtension.deps.json
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\bin\Debug\netcoreapp2.2\CSharpExtension.runtimeconfig.json
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\bin\Debug\netcoreapp2.2\CSharpExtension.runtimeconfig.dev.json
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\bin\Debug\netcoreapp2.2\CSharpExtension.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\bin\Debug\netcoreapp2.2\CSharpExtension.pdb
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\obj\Debug\netcoreapp2.2\CSharpExtension.csproj.CopyComplete
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\obj\Debug\netcoreapp2.2\CSharpExtension.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\obj\Debug\netcoreapp2.2\CSharpExtension.pdb
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\bin\Debug\netcoreapp2.2\DemoLibrary.dll
+E:\StudyCode\CSharpExtension\CSharpExtension\CSharpExtension\bin\Debug\netcoreapp2.2\DemoLibrary.pdb
